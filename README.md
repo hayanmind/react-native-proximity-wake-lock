@@ -1,2 +1,2 @@
 # react-native-proximity-wake-lock
-React Native Proximity Wake Lock
+React Native Proximity Wake Lock (Android Only)
